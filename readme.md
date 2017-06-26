@@ -1,4 +1,4 @@
-#Llorem Ypswm#
+# Llorem Ypswm
 
 * Need some Lorem Ipsum?
 * Love consonants?
@@ -6,8 +6,10 @@
 
 Generate some pseudo-random, repeatable strings.
 
-##Todo:##
+## Todo:
 
 * Make the words look more natural
 * Use relative grapheme frequencies
 * Consider valid/common letter adjacency
+
+Uses the beautiful md5-min.js from https://github.com/jbt/js-crypto.
